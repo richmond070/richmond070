@@ -8,23 +8,20 @@
 
 - 🔭 I’m currently working on **resource libary**
 
-- 🌱 I’m currently learning **ExpressJs**
+- 🌱 I’m currently learning **Data Engineering**
 
-- 👨‍💻 All of my projects are available at [ekezieju.vercel.app](ekezieju.vercel.app)
+- 👨‍💻
 
 - 📝 I regularly write articles on [https://medium.com/@ekezieju](https://medium.com/@ekezieju)
 
 - 💬 Ask me about **Python, data engineering and software architecture**
 
-- 📫 How to reach me **ekezierichmond90@gmail.com**
+- 📫 How to reach me **ekezierichmond90@gmail.com** // **uzochukwuekezie5@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qeQm9aotz2ALDTY0aNCMCjryk0zuWVNR/view?usp=share_link](https://drive.google.com/file/d/1qeQm9aotz2ALDTY0aNCMCjryk0zuWVNR/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qeQm9aotz2ALDTY0aNCMCjryk0zuWVNR/view?usp=share_link](https://drive.google.com/file/d/1d8OUo4CWS6tonri6KBerjP0qn6mlzixz/view?usp=drive_link)
 
 - ⚡ Fun fact **i talk about the most random stuffs**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
