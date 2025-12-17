@@ -1,27 +1,70 @@
-<h1 align="center">Hi 👋, I'm Ekezie Uzochukwu Richmond (Juju)</h1>
-<h3 align="center">A passionate Backend Data Engineer  </h3>
-<img align ="right" alt="coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+## 👋 My Story
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=richmond070&label=Profile%20views&color=0e75b6&style=flat" alt="richmond070" /> </p>
+I’m **Ekezie Uzochukwu Richmond (Juju)** — a backend-focused engineer with a strong foundation in **data engineering**, driven by curiosity for how systems scale, fail, and recover in real-world environments.
 
-<p align="left"> <a href="https://twitter.com/ekezieju" target="blank"><img src="https://img.shields.io/twitter/follow/ekezieju?logo=twitter&style=for-the-badge" alt="ekezieju" /></a> </p>
+My journey into software engineering started with a desire to move beyond writing code that “works” into building systems that are **reliable, observable, and data-informed**. With a background in mechanical engineering and hands-on experience across backend development and data pipelines, I naturally gravitated toward designing services that sit at the intersection of **APIs, databases, and data infrastructure**.
 
-- 🔭 I’m currently working on **resource libary**
+Over time, I’ve worked on projects ranging from **transaction-heavy bookkeeping systems** to **data ingestion pipelines**, where performance, correctness, and maintainability matter. I enjoy breaking down complex problems, modeling real-world processes into clean data structures, and turning vague requirements into production-ready solutions.
 
-- 🌱 I’m currently developing my skills in both  **Backend and Data Engineering**
+Today, I focus on building **scalable backend systems**, **data-driven platforms**, and **clean service architectures**, while continuously sharpening my skills in distributed systems, cloud-native tooling, and modern data stacks.
 
-- 👨‍💻
+---
 
-- 📝 I regularly write articles on [https://medium.com/@ekezieju](https://medium.com/@ekezieju)
+## 🧠 Experience
 
-- 💬 Ask me about **Python, data engineering and software architecture**
+### **Data Engineer — AltSchool Africa (SkillHub Capstone Project)**
+*Nov 2024 – Mar 2025*  
+- Designed and implemented **ETL pipelines** for aggregating and transforming service-provider data  
+- Modeled relational and analytical datasets for efficient querying and reporting  
+- Worked with **Python, SQL, Airflow, DBT, and cloud storage** to support data reliability and quality  
+- Collaborated cross-functionally to translate product needs into data solutions
 
-- 📫 How to reach me **ekezierichmond90@gmail.com** // **uzochukwuekezie5@gmail.com**
+### **Backend Developer — Tech-Star Community (Book-Lab Project)**
+*2022 – 2023*  
+- Built RESTful APIs for a book management and lending platform  
+- Designed database schemas and optimized queries for performance  
+- Implemented authentication, authorization, and business logic using **Node.js and Express**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qeQm9aotz2ALDTY0aNCMCjryk0zuWVNR/view?usp=share_link](https://drive.google.com/file/d/1d8OUo4CWS6tonri6KBerjP0qn6mlzixz/view?usp=drive_link)
+### **Data Engineer — SUI Hackathon (CouponAI)**
+- Contributed to a data-driven coupon recommendation system  
+- Worked on data ingestion, transformation, and feature preparation  
+- Collaborated under tight deadlines to ship a functional MVP
 
-- ⚡ Fun fact **i talk about the most random stuffs**
+### **Intern — National Space Research and Development Agency**
+- Gained exposure to structured data systems and technical documentation  
+- Assisted with system analysis and engineering workflows
 
+---
+
+## 🚀 Projects & Achievements
+
+### **KIP – Bookkeeping & Transaction Management Platform**
+- Designed a backend system for tracking **orders, transactions, and users**  
+- Implemented **automatic transaction recalculation** on order updates  
+- Applied **SOLID principles**, DTOs, service layers, and validation with **Zod**  
+- Focused on clean architecture and future scalability  
+🔗 GitHub: https://github.com/richmond070/Kip
+
+### **SkillHub**
+- Helped build a platform connecting users to nearby skilled artisans  
+- Contributed to data modeling, ingestion, and backend logic
+
+### **Open Source & Continuous Learning**
+- Actively contribute to open-source and technical communities  
+- Regularly write about backend engineering, data concepts, and system design on Medium  
+✍️ https://medium.com/@ekezieju
+
+---
+
+## 🎯 What I Care About
+- Designing **clean, maintainable backend systems**
+- Building **data pipelines that don’t break silently**
+- Writing code that scales with both **traffic and teams**
+- Learning deeply, sharing knowledge, and improving incrementally
+
+If you’re interested in **backend engineering**, **data systems**, or building reliable software in challenging environments, I’m always open to meaningful conversations.
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
